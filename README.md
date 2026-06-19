@@ -1,37 +1,15 @@
-# MuddassirKhan-SE
+# muddassir-khan-se
 
-## Professional Summary
+👋 Hi — I’m Muddassir.
 
-Software Engineering undergraduate at IMSciences Peshawar with a rigorous focus on algorithmic problem solving, system-level design, and research-led software development. Skilled at producing maintainable, well-documented code in C++ and Python, with proven experience in designing modular architectures and formal technical reports.
+Software Engineering student at IMSciences Peshawar. I build reliable C++ systems, prototype in Python, and research ML-driven navigation security. I focus on clear design, efficient algorithms, and well-documented code.
 
-## Technical Strengths
+🔭 I’m currently: working on research for autonomous navigation security and building algorithmic systems.
 
-- C++: system programming, performance-oriented development, and design for correctness
-- Python: data processing, prototyping, and experimental analysis
-- Data Structures & Algorithms: graph algorithms, priority queues, interval scheduling, dynamic programming
-- Object-Oriented Design: modular architecture, design patterns, unit-testable modules
-- Databases: relational schema design, SQL query optimization, normalization
-- Research & Documentation: experimental methodology, UML, formal reporting, reproducible results
+🛠️ Skills: C++, Python, Data Structures & Algorithms, OOP, Relational Databases, Research & Documentation.
 
-## Research Experience
+⚡ Interests: Autonomous systems, sensor fusion, anomaly detection, system-level programming.
 
-- Independent research on autonomous vehicle navigation security and GPS spoofing detection
-- Developed and evaluated ML-based anomaly detectors and multi-sensor fusion pipelines
-- Produced comprehensive documentation on problem formulation, architecture, and experimental evaluation
+📫 Connect: muddassir72044@gmail.com | https://www.linkedin.com/in/muddassir-khan-496700341
 
-## Selected Project
-
-### Zone-Based Secure Campus Parking Optimisation System
-
-- Implemented a real-time C++ allocation engine with a modular OOP architecture
-- Used hash maps, adjacency-list graphs, min-heaps, and interval scheduling for efficiency and correctness
-- Delivered UML diagrams, complexity analysis, and a formal software specification
-
-## Academic Focus
-
-- Software Engineering, Data Structures & Algorithms, Operating Systems, Database Systems, Artificial Intelligence
-
-## Contact
-
-- Email: muddassir72044@gmail.com
-- LinkedIn: https://www.linkedin.com/in/muddassir-khan-496700341
+Thanks for visiting — I keep things simple, efficient, and well-tested. 🚀
